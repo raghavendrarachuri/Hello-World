@@ -1,0 +1,3 @@
+#include <stdio.h>
+scanf("Please enter Prakriti", %s, &Prakriti)
+printf("THe value of Prakruti in my register is", %s, prakriti)
